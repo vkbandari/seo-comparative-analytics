@@ -1,2 +1,2 @@
 # seo-comparative-analytics
-Data Science work on SEO  
+Data Science work 
